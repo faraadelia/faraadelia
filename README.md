@@ -1,56 +1,59 @@
 # Hi, I'm Fara Adelia! 👋
 
-An analytical Psychology graduate with a Minor in Economics from The University of British Columbia, combining an understanding of human and consumer behavior with quantitative data science skills.
+Psychology graduate with a Minor in Economics from The University of British Columbia. I combine an understanding of human and consumer behaviour with quantitative research and data analysis in R.
 
 ---
 
 ### 🚀 About Me
-* 🧠 **Core Interests:** Market Research, Consumer Insights, Behavioral Data Analysis, and Psychometrics.
-* 🎓 **Education:** BA in Psychology (Minor in Economics) with High Distinction from UBC, Vancouver (Class of 2026).
-* 🌱 **Technical Focus:** Currently expanding my capabilities in quantitative research methodology and advanced data workflow automation using Git.
-* 📊 **Academic Research:** Experienced in managing cross-national datasets, data cleaning, and structural model evaluations (CFA & EFA) in R.
+* 🧠 **Interests:** Market research, consumer insights, behavioural data analysis and psychometrics
+* 🎓 **Education:** BA in Psychology, Minor in Economics, High Distinction, UBC Vancouver (2026)
+* 📊 **Research:** Cross-national data collection and cleaning, scale development, and factor analysis (CFA and EFA) in R
+* 🌱 **Currently learning:** Version control with Git and reproducible research workflows
 
 ---
 
-### 🛠️ Skills & Technologies
+### 🛠️ Skills & Tools
 
-* **Data Analysis & Programming:**
-  ![R](https://shields.io)
-  ![SPSS](https://shields.io)
-  ![Excel](https://shields.io)
+**Data analysis**
 
-* **Research Methodologies:**
-  * Confirmatory & Exploratory Factor Analysis (CFA / EFA)
-  * Psychometric Scale Development & Survey Design
-  * Quantitative Research, Regression, ANOVA, & Correlation Analysis
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Qualtrics](https://img.shields.io/badge/Qualtrics-00B4EF?style=for-the-badge&logo=qualtrics&logoColor=white)
 
-* **Tools & Platform:**
-  ![Git](https://shields.io)
-  ![GitHub](https://shields.io)
-  ![Canva](https://shields.io)
+**Research methods**
+* Confirmatory and exploratory factor analysis (CFA / EFA)
+* Psychometric scale development and survey design
+* Experimental design, correlation analysis and descriptive statistics
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ---
 
 ### 📂 Featured Research & Projects
 
-#### 1. [Government Operations Domain in Cultural Tightness–Looseness](https://github.com)
-* **Overview:** A cross-national CFA and correlational study using a dataset spanning 23 policies across 29 countries to analyze policy tightness structures under the PANGEA Lab.
-* **Key Contribution:** Standardized and cleaned indicators in R, evaluated one-, two-, and three-factor confirmatory models using fit indices (CFI, TLI, RMSEA, SRMR) to interpret complex global structures.
+#### 1. [Government Operations in Cultural Tightness-Looseness](https://github.com/USERNAME/REPO-NAME)
+*Independent directed study (PSYC 340), PANGEA Lab, UBC*
+* **Overview:** Collected and coded 23 government policy indicators across 29 countries to test whether they measure a single "tightness" construct.
+* **What I did:** Reverse-coded and standardized indicators in R, screened them with a correlation matrix, and compared one-, two- and three-factor CFA models in lavaan using CFI, TLI, RMSEA and SRMR.
+* **Result:** Model fit improved from CFI 0.16 to 0.68 through refinement, below the conventional 0.90 benchmark, which pointed to the indicators capturing more than one construct.
 
-#### 2. [Psychometric Scale Development: Multicultural Openness](https://github.com)
-* **Overview:** Designed and validated a 10-item Likert scale measuring individual willingness to engage in cross-cultural experiences, capturing data from 159 respondents.
-* **Key Contribution:** Handled data screening (skewness, kurtosis, item-total r) in R, resulting in a reliable 8-item scale ($\alpha = 0.81$, $\omega = 0.81$) confirmed through factor analysis.
+#### 2. [Psychometric Scale Development: Multicultural Openness](https://github.com/USERNAME/REPO-NAME)
+*Team project, PSYC 303, UBC*
+* **Overview:** Developed a scale measuring willingness to engage in cross-cultural experiences, tested with 159 UBC students.
+* **What I did:** Screened items in R (descriptives, inter-item and item-total correlations), removing 2 items to refine a 10-item scale to 8 items.
+* **Result:** Reliable 8-item scale (α = .81, ω = .81) with a clear one-factor structure (SRMR = .045) and convergent validity (r = .23, p = .003).
 
----
-
-### 📊 GitHub Statistics
-<p align="left">
-  <img src="https://vercel.app" alt="GitHub Stats" />
-  <img src="https://vercel.app" alt="Top Languages" />
-</p>
+#### 3. [The Effect of Bold Font on Perceived Importance](https://github.com/USERNAME/REPO-NAME)
+*Team project, PSYC 217, UBC*
+* **Overview:** Randomized experiment with 42 undergraduates comparing bold and regular text.
+* **Result:** Bold text was rated as more important (M = 7.66, SD = 1.45) than regular text (M = 6.93, SD = 1.77) on a 10-point scale.
 
 ---
 
 ### 📫 Connect with Me
-* 💼 **LinkedIn:** [://linkedin.com](https://://linkedin.com)
+* 💼 **LinkedIn:** [linkedin.com/in/YOUR-PROFILE](https://www.linkedin.com/in/YOUR-PROFILE)
 * 📧 **Email:** faraadelia03@gmail.com
